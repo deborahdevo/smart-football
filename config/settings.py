@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-fh=ezmk6z*@dobu^p!j&npyl%=t+1m8le@92nd3)y(dhv%vc5@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['smart-football-bh66.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
